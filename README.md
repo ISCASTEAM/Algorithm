@@ -17,15 +17,15 @@ int main(){
 # 算法-头文件对应  
 *基础*  
 > 背包,队列,栈  
-> 连通集                 UnionFind.h  
+> 连通集                 UnionFind.h    
 
 *排序*
-> 初级排序               Insertion.h        Insertion_test.cpp
+> 初级排序               Insertion.h        Insertion_test.cpp  
 > 归并排序
-> 三向快速排序            Quick3way.h         Qucik3way_test.cpp
-> 优先队列                HeapSort.h        Heapsort_test.cpp
+> 三向快速排序            Quick3way.h         Qucik3way_test.cpp  
+> 优先队列                HeapSort.h        Heapsort_test.cpp  
 
 *查找*
-> 符号表
-> 二叉树                   BinarySearchTree.h BinarySearchTree_test.cpp
-> 平衡二叉树             RedBlackTree.h      RedBlackTree_test.cpp 
+> 符号表  
+> 二叉树                   BinarySearchTree.h BinarySearchTree_test.cpp  
+> 平衡二叉树             RedBlackTree.h      RedBlackTree_test.cpp   
